@@ -32,3 +32,4 @@ y_pred = knn.predict(X_test_scaled)
 accuracy = accuracy_score(y_test, y_pred)
 print(f"Accuracy: {accuracy}")
 
+#accuracy was 0.84375
