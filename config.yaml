@@ -1,2 +1,2 @@
 path: "my_model.joblib"
-features: ['HNR',  'PPE'] # You are allowed to add only two features.
+features: ['DFA',  'PPE'] # You are allowed to add only two features.
